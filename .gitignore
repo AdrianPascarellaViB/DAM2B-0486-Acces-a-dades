@@ -1,0 +1,9 @@
+# Material del profesor que no se sube al repo público (enunciados, etc.)
+ignored/
+
+# Java
+*.class
+
+# Editor / SO
+.vscode/
+Thumbs.db
