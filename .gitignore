@@ -7,3 +7,6 @@ ignored/
 # Editor / SO
 .vscode/
 Thumbs.db
+
+# Dades generades en executar (Pt3)
+*.dat
